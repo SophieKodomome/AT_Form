@@ -1,9 +1,13 @@
 # AT_Form
 
 Technology:
--React
--Node
--PostgreJs
+-Front:
+    -React
+    -Spring(React Library for graphics)
+-Back End:
+    -Node
+    -Redis
+    -Json
 
 
 To do list:
